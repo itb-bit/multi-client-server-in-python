@@ -1,0 +1,7 @@
+1- new
+2- singing_name
+3- regstring_name
+4- singing_password
+5- regstring_password
+6- working
+7- silent

@@ -1,0 +1,7 @@
+0 - user posisen
+1 - socet 
+2 -ip 
+3- name 
+4 - password
+5 - file
+6 - is a manger 
